@@ -1,25 +1,29 @@
 <p align="center">
-  <img alt="ExpressLRS-DualBand" src="https://img.shields.io/badge/BTechOS-ExpressLRS-DualBand-000000?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:0055ff&height=200&section=header&text=ExpressLRS-DualBand&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
-
-<p align="center"><b>ExpressLRS-DualBand</b></p>
-
-<p align="center">ExpressLRS fork with ESP32-C3 dual-band (900MHz + 2.4GHz) BOTHBANDS firmware support</p>
 
 <p align="center">
-  <a href="https://github.com/btechioi/ExpressLRS-DualBand">Repository</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/btechioi/ExpressLRS-DualBand/issues">Issues</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/btechioi/ExpressLRS-DualBand/releases">Releases</a>
+  <img src="https://img.shields.io/github/stars/btechioi/ExpressLRS-DualBand?style=for-the-badge&color=00e1ff" /> <img src="https://img.shields.io/github/forks/btechioi/ExpressLRS-DualBand?style=for-the-badge&color=0055ff" /> <img src="https://img.shields.io/github/license/btechioi/ExpressLRS-DualBand?style=for-the-badge&color=00e1ff" />
 </p>
 
-## About
+<p align="center">
+  <b>ExpressLRS fork with ESP32-C3 dual-band (900MHz + 2.4GHz) BOTHBANDS firmware support</b>
+</p>
 
-ExpressLRS-DualBand is part of the BTechOS ecosystem.
+---
 
-## Getting Started
+## 📖 Overview
 
-See the project documentation and source for installation and usage.
+ExpressLRS fork with ESP32-C3 dual-band (900MHz + 2.4GHz) BOTHBANDS firmware support
 
-## License
+---
 
-See LICENSE.
+## 🚀 Getting Started
+
+See the project source and documentation for installation and usage.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e1ff,100:0055ff&height=100&section=footer&text=BTechOS&fontSize=20&fontAlignY=50&fontColor=ffffff"/>
+</p>
