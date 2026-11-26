@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/btechioi/ExpressLRS-DualBand?style=for-the-badge&color=00e1ff" /> <img src="https://img.shields.io/github/forks/btechioi/ExpressLRS-DualBand?style=for-the-badge&color=0055ff" /> <img src="https://img.shields.io/github/license/btechioi/ExpressLRS-DualBand?style=for-the-badge&color=00e1ff" />
-</p>
-
-<p align="center">
   <b>ExpressLRS fork with ESP32-C3 dual-band (900MHz + 2.4GHz) BOTHBANDS firmware support</b>
 </p>
 
